@@ -62,8 +62,7 @@ html, body {
     text-decoration: none; 
     vertical-align: top; 
     white-space: nowrap; 
-    width: fit-content; 
-    width: -moz-fit-content;
+    width: auto; 
     overflow: hidden}
 #mc_embed_signup .button:hover {background-color:#777;}
 #mc_embed_signup input {border: 1px solid #ABB0B2; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px;  margin: 0 5px 10px 0; overflow: hidden}
