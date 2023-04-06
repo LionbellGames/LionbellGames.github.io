@@ -35,7 +35,8 @@ html, body {
     clear:both; 
     width:auto; 
     display:block; 
-    margin:1em 0 1em 5%;}
+    margin:1em 0 1em 5%;
+    outline: 1px solid red}
 #mc_embed_signup #num-subscribers {font-size:1.1em;}
 #mc_embed_signup #num-subscribers span {
     padding:.5em; 
@@ -62,9 +63,10 @@ html, body {
     vertical-align: top; 
     white-space: nowrap; 
     width: fit-content; 
-    width: -moz-fit-content;}
+    width: -moz-fit-content;
+    outline: 1px solid red}
 #mc_embed_signup .button:hover {background-color:#777;}
-#mc_embed_signup input {border: 1px solid #ABB0B2; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px;  margin: 0 5px 10px 0; }
+#mc_embed_signup input {border: 1px solid #ABB0B2; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px;  margin: 0 5px 10px 0; outline: 1px solid red}
 #mc_embed_signup input:focus {border-color:#333;}
            
 .header {
