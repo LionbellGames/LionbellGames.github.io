@@ -57,12 +57,14 @@ html, body {
       background: #003049;
       color: #FFFFFF;
       width: 100%;
+      overflow: hidden
     }
     
 /* Page content */
 .content {
       padding: 16px;
       font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+      overflow: hidden
     }
     
 /* The sticky class is added to the header with JS when it reaches its scroll position */
