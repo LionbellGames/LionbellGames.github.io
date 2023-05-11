@@ -70,7 +70,8 @@ html, body {
     -webkit-border-radius: 3px; 
     -moz-border-radius: 3px; 
     border-radius: 3px;  
-    margin: 0 5px 10px 0; 
+    margin: 0 5px 10px 0;
+    padding: 5px; 
     overflow: hidden}
 #mc_embed_signup input:focus {border-color:#333;}
            
