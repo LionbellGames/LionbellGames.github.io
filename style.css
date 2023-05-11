@@ -89,6 +89,7 @@ h1 {
       width: 100%;
       max-width: 100%;
       overflow: hidden;
+      z-index: 10;
     }
 
 
