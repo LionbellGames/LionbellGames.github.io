@@ -82,6 +82,13 @@ html, body {
       width: 100%;
       overflow: hidden;
     }
+
+h1 {
+    color: #003049;
+    font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+    font-size: 42px;
+    font-weight: bold;
+}
     
 /* Page content */
 .content {
