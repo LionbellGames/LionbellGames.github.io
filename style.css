@@ -88,8 +88,7 @@ h1 {
       color: #FFFFFF;
       width: 100%;
       max-width: 100%;
-      overflow: hidden;
-      overflow-x: hidden;
+      overflow: auto;
       z-index: 10;
     }
 
