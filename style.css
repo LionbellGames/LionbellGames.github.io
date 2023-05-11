@@ -117,3 +117,10 @@ h1 {
     float: left;    
     margin: 0 15px 0 0;
 }
+
+h2 {
+    color: #FFFFFFFFFFF;
+    font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+    font-size: 42pt;
+    font-weight: bold;
+}
