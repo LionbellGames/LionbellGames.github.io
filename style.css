@@ -113,6 +113,7 @@ h1 {
       padding-top: 102px;
 }
 
-img {
-    float: left;
+#logo  {
+    float: left;    
+    margin: 0 15px 0 0;
 }
