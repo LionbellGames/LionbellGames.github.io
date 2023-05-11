@@ -95,7 +95,7 @@ h1 {
 /* Page content */
 .content {
       padding: 32px;
-      font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+      font-family: Century Gothic, CenturyGothic, AppleGothic, Inter, sans-serif;
       overflow: hidden;
     }
     
