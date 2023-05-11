@@ -86,8 +86,6 @@ h1 {
       padding: 10px 16px;
       background: #003049;
       color: #FFFFFF;
-      width: 100%;
-      max-width: 100%;
       overflow: auto;
       z-index: 10;
     }
