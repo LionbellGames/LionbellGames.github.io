@@ -1,6 +1,13 @@
 html, body {
      margin: 0;
     }
+
+h1 {
+    color: #003049;
+    font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+    font-size: 42px;
+    font-weight: bold;
+}
 #mc_embed_signup form {
     display:block; 
     position:relative; 
@@ -83,12 +90,7 @@ html, body {
       overflow: hidden;
     }
 
-h1 {
-    color: #003049;
-    font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
-    font-size: 42px;
-    font-weight: bold;
-}
+
     
 /* Page content */
 .content {
