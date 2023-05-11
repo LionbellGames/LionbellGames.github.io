@@ -94,10 +94,9 @@ h1 {
     
 /* Page content */
 .content {
-      padding: 16px;
+      padding: 32px;
       font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
       overflow: hidden;
-      max-width: 1402px;
     }
     
 /* The sticky class is added to the header with JS when it reaches its scroll position */
