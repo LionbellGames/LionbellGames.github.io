@@ -15,7 +15,7 @@ html, body {
     padding-bottom:3%; 
     min-height:50px; 
     display:grid;
-    overflow: visible}  
+    overflow: hidden}  
 #mc_embed_signup{
     background:#fff; 
     clear:left; 
